@@ -1,5 +1,5 @@
 ## CollegeProjects
-Some of the projects I've worked on in college
+Some of the projects I've worked on in college.
 For more information [visit my website](https://isaacbrinkman.wixsite.com/mysite)
 
 ### Huffman
